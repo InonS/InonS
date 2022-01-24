@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 --> 
 
-- 🔭 You can see what I’m currently working on [my LinkedIn profile](https://www.linkedin.com/in/inonsharony).
+- 🔭 You can see what I’m currently working on on [my LinkedIn profile](https://www.linkedin.com/in/inonsharony).
 - 🌱 I’m alwasy fascinated about learning, particularly in the intersection of the physical sciences and algorithm development (mostly Data Science and Machine Learning).
 - 💬 Ask me about ...
 - 😄 Pronouns: he/him
